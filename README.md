@@ -47,7 +47,7 @@ pip install paramiko openpyxl
 
 3. Run the script:
 
-	python sshRouterExporter.py
+	python3 sshRouterExporter.py
 
 4. Choose the export format when prompted:
 
