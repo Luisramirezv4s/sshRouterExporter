@@ -4,7 +4,7 @@ This project uses **Paramiko** for SSH communication and **OpenPyXL** for Excel 
 
 ---
 
-# Features
+## Features
 - 🔑 SSH connection to Cisco routers using Paramiko.  
 - 🌐 Executes `show ip interface brief` to retrieve interface details.  
 - 📊 Export results to:
@@ -14,7 +14,7 @@ This project uses **Paramiko** for SSH communication and **OpenPyXL** for Excel 
 
 ---
 
-# Environment Setup
+## Environment Setup
 This work was carried out in a **virtualized network environment**:  
 1. **VMware Fusion** was used as the virtualizer.  
 2. **GNS3** (both client and server) was configured to provide a graphical network simulation.  
@@ -23,7 +23,7 @@ This work was carried out in a **virtualized network environment**:
 
 ---
 
-# Requirements
+## Requirements
 - Python 3.8+  
 - [VMware Fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  
 - [GNS3](https://www.gns3.com/software/download)
@@ -33,7 +33,7 @@ pip install paramiko openpyxl
 
 ---
 
-# USAGE
+## USAGE
 1. Clone the repository
 
 	git clone https://github.com/your-username/sshRouterExporter.git
@@ -57,9 +57,12 @@ pip install paramiko openpyxl
    
 ---
 
-# Note:
+## Note:
 This project is intended for educational purposes (network automation and scripting practice).
 
+---
+
+## Licence
 MIT License.
 Feel free to use and adapt this project for learning and research purposes.
   
